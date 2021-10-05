@@ -576,7 +576,7 @@ p{color: #fff;}
     width: 100vw; height: 100vh;
 }
 .sub1_bg > div{
-    width: 100vw; height: 80vh;
+    width: 100vw; height: 100vw;
     position: absolute;
     top: 0; left: 0;
     background-position: center;
